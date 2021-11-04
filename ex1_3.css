@@ -1,0 +1,11 @@
+div.my1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkred;
+    font-size: larger;
+}
+
+div.my2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkseagreen;
+    font-size: large;
+}
